@@ -1,0 +1,27 @@
+{
+  "name": "NodeJsMaestria",
+  "version": "1.0.0",
+  "description": "Crud en node js trabajo en clase con dos tablas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisitocaiza17/NodeJsMaestria.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisitocaiza17/NodeJsMaestria/issues"
+  },
+  "homepage": "https://github.com/luisitocaiza17/NodeJsMaestria#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.12.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
